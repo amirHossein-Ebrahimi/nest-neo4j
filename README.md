@@ -1,3 +1,13 @@
+### 🔥 Fixing Issue of Connection acquisition timed out
+```console
+Neo4jError: Connection acquisition timed out in 60000 ms. 
+Poos status: Active conn count = 100, Idle conn count = 0.
+```
+
+There is also a [open pull request](https://github.com/adam-cowley/nest-neo4j/pull/5) in merging queue. you can install pacakge using github till merge and package publish. see Installation section bellow.
+
+
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://kamilmysliwiec.com/public/nest-logo.png#1" alt="Nest Logo" />   </a>
   <a href="https://neo4j.com" target="_blank"><img src="https://dist.neo4j.com/wp-content/uploads/20140926224303/neo4j_logo-facebook.png" width="380"></a>
@@ -14,8 +24,9 @@ This repository provides [Neo4j](https://www.neo4j.com) integration for [Nest](h
 ## Installation
 
 ```bash
+# Npm
 $ npm i --save amirHossein-Ebrahimi/nest-neo4j
-# or with yarn
+# Yarn
 $ yarn add amirHossein-Ebrahimi/nest-neo4j
 ```
 
