@@ -25,9 +25,9 @@ This repository provides [Neo4j](https://www.neo4j.com) integration for [Nest](h
 
 ```bash
 # Npm
-$ npm i --save amirHossein-Ebrahimi/nest-neo4j
+$ npm i --save realamirhe/nest-neo4j
 # Yarn
-$ yarn add amirHossein-Ebrahimi/nest-neo4j
+$ yarn add realamirhe/nest-neo4j
 ```
 
 ## Quick Start
